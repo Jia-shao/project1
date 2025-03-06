@@ -1,0 +1,870 @@
+{
+    "0": {
+        "image path": "0/0.png",
+        "instruction": "Many people like to watch movies on TV, but the sound from the TV itself may not be loud enough or of good quality. What device in the picture can enhance the sound from the TV? Please replace this object with a floor-standing lamp.",
+        "mask path": [
+            "0/0_mask.png"
+        ],
+        "CLIP": [
+            "lamp"
+        ]
+    },
+    "1": {
+        "image path": "1/1.png",
+        "instruction": "During leisure time, what item in the living room is capable of creating an immersive audio experience when paired with other electronic devices? Please replace this object with something used for taking photos.",
+        "mask path": [
+            "1/1_mask.png"
+        ],
+        "CLIP": [
+            "camera"
+        ]
+    },
+    "2": {
+        "image path": "2/2.png",
+        "instruction": "Please replace the object commonly used to hold flowers in the picture with a blue bottle",
+        "mask path": [
+            "2/2_mask.png"
+        ],
+        "CLIP": [
+            "blue bottle"
+        ]
+    },
+    "3": {
+        "image path": "3/3.png",
+        "instruction": "When needing to visually display large amounts of information during a meeting, what can be utilized to write this information down and project it onto a wall for all to see? Please replace this object in the image with a blackboard.",
+        "mask path": [
+            "3/3_mask.png"
+        ],
+        "CLIP": [
+            "blackboard"
+        ]
+    },
+    "4": {
+        "image path": "4/4.png",
+        "instruction": "What is the common tool or device used for people to input letters and commands when using a computer? Please change its color to red.",
+        "mask path": [
+            "4/4_mask.png"
+        ],
+        "CLIP": [
+            "a white piece of paper"
+        ]
+    },
+    "5": {
+        "image path": "5/5.png",
+        "instruction": "What is the object that hangs on the wall in the bedroom which can enhance the atmosphere of the room and give it a more artistic and decorative feel? Please remove this object.",
+        "mask path": [
+            "5/5_mask.png"
+        ],
+        "CLIP": [
+            "white wall"
+        ]
+    },
+    "6": {
+        "image path": "6/6.png",
+        "instruction": "To create a more dining-like atmosphere, we should add elements that are commonly found on a table set for a meal. In this image, the tables are devoid of such items. Please edit to include plates on the tables to suggest they are prepared for dining.",
+        "mask path": [
+            "6/6_mask.png"
+        ],
+        "CLIP": [
+            "plate"
+        ]
+    },
+    "7": {
+        "image path": "7/7.png",
+        "instruction": "What object in the picture can we use to place items such as food or drink during a meal? Please add a while plate on this object.",
+        "mask path": [
+            "7/7_mask.png"
+        ],
+        "CLIP": [
+            "a white plate on the table"
+        ]
+    },
+    "8": {
+        "image path": "8/8.png",
+        "instruction": "If you were in a bedroom, where would you store your clothing items such as shirts, pants, and dresses? Please replace this object with a teddy bear.",
+        "mask path": [
+            "8/8_mask.png"
+        ],
+        "CLIP": [
+            "a teddy bear"
+        ]
+    },
+    "9": {
+        "image path": "9/9.png",
+        "instruction": "Maintaining a clean kitchen environment is critical for maintaining food hygiene and ensuring good health. What item in the picture could be utilized to store discarded food or trash in order to keep the kitchen clean? Pleace remove this object. ",
+        "mask path": [
+            "9/9_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "10": {
+        "image path": "10/10.png",
+        "instruction": "What is the object that displays the current time on the wall called? Please remove this object. ",
+        "mask path": [
+            "10/10_mask.png"
+        ],
+        "CLIP": [
+            "white wall"
+        ]
+    },
+    "11": {
+        "image path": "11/11.png",
+        "instruction": "What object in a room is capable of producing hard copies of documents, thereby providing viewers with a physical copy of the material? Please replace this object with the object that is used to input something to the computer in the image. ",
+        "mask path": [
+            "11/11_mask.png"
+        ],
+        "CLIP": [
+            "keyboard"
+        ],
+        "notes": "special case"
+    },
+    "12": {
+        "image path": "12/12.png",
+        "instruction": "In hotel rooms, what object can often be found hanging on the wall as a decorative item? Please remove this object.",
+        "mask path": [
+            "12/12_mask.png"
+        ],
+        "CLIP": [
+            "white wall"
+        ]
+    },
+    "13": {
+        "image path": "13/13.png",
+        "instruction": "If you need to bring all your required supplies to the library for self-study, what object could you utilize to streamline transportation of these items? Please remove this object.",
+        "mask path": [
+            "13/13_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "14": {
+        "image path": "14/14.png",
+        "instruction": "You are tired after all day\"s hard work and want to rest for a while. What furniture might you choose to sit on to rest? Please replace this object with the while one. ",
+        "mask path": [
+            "14/14_mask.png"
+        ],
+        "CLIP": [
+            "white sofa"
+        ]
+    },
+    "15": {
+        "image path": "15/15.png",
+        "instruction": "Before going to sleep, it's common to have something to read to help relax. What object in the room serves this purpose? Please replace this object with a camera.",
+        "mask path": [
+            "15/15_mask.png"
+        ],
+        "CLIP": [
+            "camera"
+        ]
+    },
+    "16": {
+        "image path": "16/16.png",
+        "instruction": "What object is used to hang on the walls that can enhance the beauty of a room and make it look more attractive? Please remove those objects.",
+        "mask path": [
+            "16/16_mask.png"
+        ],
+        "CLIP": [
+            "wall"
+        ]
+    },
+    "17": {
+        "image path": "17/17.png",
+        "instruction": "When people are in a waiting room and need to throw away a candy wrapper, what object in the waiting room can be used to put the candy wrap in? Please replace this object with a flowerpot.",
+        "mask path": [
+            "17/17_mask.png"
+        ],
+        "CLIP": [
+            "flowerpot"
+        ]
+    },
+    "18": {
+        "image path": "18/18.png",
+        "instruction": "When we are done with using the washing machine, what part of the machine should we make sure to close? Please reomve this part.",
+        "mask path": [
+            "18/18_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "19": {
+        "image path": "19/19.png",
+        "instruction": "In the room, there is an object that people use to place items or work on. What object serves this purpose? Please replace this object with the object that is used to sit in the picture.",
+        "mask path": [
+            "19/19_mask.png"
+        ],
+        "CLIP": [
+            "sofa"
+        ],
+        "notes": "special case"
+    },
+    "20": {
+        "image path": "20/20.png",
+        "instruction": "What object in the picture can be utilized to stabilize a camera or a telescope and ensure that the shot is stationary? Please remove this object. ",
+        "mask path": [
+            "20/20_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "21": {
+        "image path": "21/21.png",
+        "instruction": "What object in the picture can be utilized to preserve and display cherished memories in the form of photographs and paintings? Please remove these objects.",
+        "mask path": [
+            "21/21_mask.png"
+        ],
+        "CLIP": [
+            "white wall"
+        ]
+    },
+    "22": {
+        "image path": "22/22.png",
+        "instruction": "If someone wants to relax their back and take a nap, what piece of furniture in the living room would be the most comfortable for them to sit on? Considering comfort and support, please identify this object and replace it with a table.",
+        "mask path": [
+            "22/22_mask.png"
+        ],
+        "CLIP": [
+            "table"
+        ]
+    },
+    "23": {
+        "image path": "23/23.png",
+        "instruction": "To spruce up the interior decor of a room, what can be used to liven up the space when placed on the floor or in the corner of the room? Please replace this object with a soccer.",
+        "mask path": [
+            "23/23_mask.png"
+        ],
+        "CLIP": [
+            "soccer"
+        ]
+    },
+    "24": {
+        "image path": "24/24.png",
+        "instruction": "Guests usually dine in their private rooms in hotels. What furniture in the image would they use to eat? Please replace this object with a blue tabel.",
+        "mask path": [
+            "24/24_mask.png"
+        ],
+        "CLIP": [
+            "blue tabel"
+        ]
+    },
+    "25": {
+        "image path": "25/25.png",
+        "instruction": "When manipulating an electronic document, what peripheral device would typically be utilized to enter data or commands? Please remove them.",
+        "mask path": [
+            "25/25_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "26": {
+        "image path": "26/26.png",
+        "instruction": "When browsing the internet or working on documents, a quiet environment is often necessary. What object can be used to provide non-vocal instructions to the computer to accomplish these tasks? Please remove this object.",
+        "mask path": [
+            "26/26_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "27": {
+        "image path": "27/27.png",
+        "instruction": "Visitors in the waiting room will be bored and may need to temporarily place personal belongings while waiting. What furniture are they likely to use for temporary storage? Please replace this furniture with the furniture that is used for sitting in the image.",
+        "mask path": [
+            "27/27_mask.png"
+        ],
+        "CLIP": [
+            "chair"
+        ]
+    },
+    "28": {
+        "image path": "28/28.png",
+        "instruction": "Suppose you want to take a short break while working in your office and need a temporary place to sit and relax. What object could be utilized for this purpose in the picture? Please replace this object with the furniture that is used to temporarily place personal belongings.",
+        "mask path": [
+            "28/28_mask.png"
+        ],
+        "CLIP": [
+            "cabinet"
+        ],
+        "notes": "special case"
+    },
+    "29": {
+        "image path": "29/29.png",
+        "instruction": "When you wake up in the morning, your hair is often disheveled. What tool do you typically use to modify your hairstyle? Please replace this object with the object that is used to brush teeth in the picture.",
+        "mask path": [
+            "29/29_mask.png"
+        ],
+        "CLIP": [
+            "toothbrush"
+        ],
+        "notes": "special case"
+    },
+    "30": {
+        "image path": "30/30.png",
+        "instruction": "When people wake up in the morning, they generally develop a habit of brushing their teeth to get rid of food debris and other substances that may have accumulated overnight. What instrument is typically used in this routine to remove these substances from the teeth? Please replace this instrument with the tool that is typically used to modify the hairstyle in the picture.",
+        "mask path": [
+            "30/30_mask.png"
+        ],
+        "CLIP": [
+            "comb"
+        ],
+        "notes": "special case"
+    },
+    "31": {
+        "image path": "31/31.png",
+        "instruction": "Suppose you want to close the door of the bedroom. What item in the picture can you use to accomplish this task? Please reomve this object.",
+        "mask path": [
+            "31/31_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "32": {
+        "image path": "32/32.png",
+        "instruction": "While typing on a computer, what is the item that is typically used along with a keyboard? Please remove this object.",
+        "mask path": [
+            "32/32_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "33": {
+        "image path": "33/33.png",
+        "instruction": "What instrument in the bedroom can be used to play music and help people relax? Please remove this object.",
+        "mask path": [
+            "33/33_mask.png"
+        ],
+        "CLIP": [
+            "white wall"
+        ]
+    },
+    "34": {
+        "image path": "34/34.png",
+        "instruction": "In schools or offices, where can the teacher place their teaching content and allow the audience to see it more clearly? Please replace this object with a blackboard.",
+        "mask path": [
+            "34/34_mask.png"
+        ],
+        "CLIP": [
+            "blackboard"
+        ]
+    },
+    "35": {
+        "image path": "35/35.png",
+        "instruction": "When you work or study, sitting for long periods of time is frequently necessary. What item in the picture can protect your posture and alleviate the damage to your body caused by lengthy sitting periods? Please replace this object with a blue chair.",
+        "mask path": [
+            "35/35_mask.png"
+        ],
+        "CLIP": [
+            "blue chair"
+        ]
+    },
+    "36": {
+        "image path": "36/36.png",
+        "instruction": "Which piece of furniture in a room could offer illumination to people who wish to read or work at night? Please remove this furniture.",
+        "mask path": [
+            "36/36_mask.png"
+        ],
+        "CLIP": [
+            "white wall"
+        ]
+    },
+    "37": {
+        "image path": "37/37.png",
+        "instruction": "What in the picture could function as a suitable location for birds to perch and rest, as they often require an elevated vantage point to observe their surroundings? Please remove this object.",
+        "mask path": [
+            "37/37_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "38": {
+        "image path": "38/38.png",
+        "instruction": "When navigating through a new city, it's important to pay attention to the signs along the road. What objects in the picture can provide useful information and directions for drivers and pedestrians? Please remove those objects.",
+        "mask path": [
+            "38/38_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "39": {
+        "image path": "39/39.png",
+        "instruction": "When it comes to water sports, people often use various tools to glide on the surface of the water. What item in the picture is designed specifically for this purpose? Please remove this object.",
+        "mask path": [
+            "39/39_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "40": {
+        "image path": "40/40.png",
+        "instruction": "When visiting a park, it is common to find designated areas for relaxation and seating. What object in the picture could be used for sitting and resting? Please reomve this object.",
+        "mask path": [
+            "40/40_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "41": {
+        "image path": "41/41.png",
+        "instruction": "What is the object in the picture that can tell people the time? Please remove it.",
+        "mask path": [
+            "41/41_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "42": {
+        "image path": "42/42.png",
+        "instruction": "Pure black coffee can be too bitter to drink, so people often add sugar to it to sweeten the taste. In this image, there are several tools. One of them can be used to add sugar to the coffee and stir it. Please identify and remove those objects.",
+        "mask path": [
+            "42/42_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "43": {
+        "image path": "43/43.png",
+        "instruction": "Neon lights are often used to attract attention and create a vibrant atmosphere in commercial areas. What in the picture has neon lights that can help guide people to a specific location? Please replace them with fans.",
+        "mask path": [
+            "43/43_mask.png"
+        ],
+        "CLIP": [
+            "fans"
+        ]
+    },
+    "44": {
+        "image path": "44/44.png",
+        "instruction": "Dogs are not typically allowed to freely roam in public spaces, and they usually need to be kept under control when walking indoors. What object in the picture could be used to keep the dog restrained in a hallway? Please remove them.",
+        "mask path": [
+            "44/44_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "45": {
+        "image path": "45/45.png",
+        "instruction": "What type of vehicle in this picture is specifically built to operate in snowy regions and has vertical takeoff and landing (VTOL) ability? Please replace this object with a bird.",
+        "mask path": [
+            "45/45_mask.png"
+        ],
+        "CLIP": [
+            "bird"
+        ]
+    },
+    "46": {
+        "image path": "46/46.png",
+        "instruction": "In dolphin shows, these marine mammals are known for their agility and acrobatics. Based on the image, what object might the dolphin leap over during a performance? Please remove them.",
+        "mask path": [
+            "46/46_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "47": {
+        "image path": "47/47.png",
+        "instruction": "What is the commonly used equipment in this picture to transport skiers and snowboarders up to the top of the ski slope? Please remove these objects.",
+        "mask path": [
+            "47/47_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "48": {
+        "image path": "48/48.png",
+        "instruction": "Refrigerators are commonly used to store all kinds of food. What food in the picture may be used to hatch chicks? Please replace them with tomatoes.",
+        "mask path": [
+            "48/48_mask.png"
+        ],
+        "CLIP": [
+            "tomatoes"
+        ]
+    },
+    "49": {
+        "image path": "49/49.png",
+        "instruction": "In the picture, there is a bird standing on elevated areas to rest or observe the surroundings. What parts of the bird in the picture that can support the bird to achieve this? Please remove this part.",
+        "mask path": [
+            "49/49_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "50": {
+        "image path": "50/50.png",
+        "instruction": "Remove the object that both teams are fighting for in a game of American football in the picture.",
+        "mask path": [
+            "50/50_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "51": {
+        "image path": "51/51.png",
+        "instruction": "In urban areas, different types of signs are often attached to poles, providing people with information or directions. Please identify the specific type of sign that can be found affixed to a pole in the picture and replace it with a traffic light.",
+        "mask path": [
+            "51/51_mask.png"
+        ],
+        "CLIP": [
+            "traffic light"
+        ]
+    },
+    "52": {
+        "image path": "52/52.png",
+        "instruction": "Helmets can effectively protect the safety of the head during cycling, but strong winds during high-speed cycling can affect the eyes. What part in the picture can protect the safety of the eyes? Please remove it.",
+        "mask path": [
+            "52/52_mask.png"
+        ],
+        "CLIP": [
+            "eyes"
+        ],
+        "note": "maybe false"
+    },
+    "53": {
+        "image path": "53/53.png",
+        "instruction": "If we were attending a car show and wanted to sit down and enjoy the view of the displayed cars, could you point me out a suitable location where we could find a place to rest? Please replace this object with a billboard.",
+        "mask path": [
+            "53/53_mask.png"
+        ],
+        "CLIP": [
+            "billboard"
+        ]
+    },
+    "54": {
+        "image path": "54/54.png",
+        "instruction": "In tennis matches, players typically strike the ball with a specific piece of equipment. What tool in the picture is commonly used to hit the ball during a tennis game? Please remove this object.",
+        "mask path": [
+            "54/54_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "55": {
+        "image path": "55/55.png",
+        "instruction": "Ladybirds, alternatively referred to as ladybugs, are common insects frequently encountered in gardens and fields. What portion of a ladybird's physique tends to be distinctively hued and covered in spots? Please remove it.",
+        "mask path": [
+            "55/55_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "56": {
+        "image path": "56/56.png",
+        "instruction": "When riding a bicycle and carrying personal belongings, which object should be utilized to securely transport the items in a safe manner? Please replace it with a basketball.",
+        "mask path": [
+            "56/56_mask.png"
+        ],
+        "CLIP": [
+            "basketball"
+        ]
+    },
+    "57": {
+        "image path": "57/57.png",
+        "instruction": "When serving a meal, various dishes and beverages are often offered. What item in the picture would most likely be utilized for pouring beverages such as water or juice? Please replace it with the food in the picture containing the most Vitamin C.",
+        "mask path": [
+            "57/57_mask.png"
+        ],
+        "CLIP": [
+            "apple"
+        ],
+        "notes": "special case"
+    },
+    "58": {
+        "image path": "58/58.png",
+        "instruction": "Please replace the food containing the most Vitamin C with an apple.",
+        "mask path": [
+            "58/58_mask.png"
+        ],
+        "CLIP": [
+            "apple"
+        ]
+    },
+    "59": {
+        "image path": "59/59.png",
+        "instruction": "Please replace the food that is rich in carbohydrates with a fried egg.",
+        "mask path": [
+            "59/59_mask.png"
+        ],
+        "CLIP": [
+            "fried egg"
+        ]
+    },
+    "60": {
+        "image path": "60/60.png",
+        "instruction": "Looking at the picture, we can see a woman standing elegantly in a flowing dress. What accessory does the woman have in her hand that can complement her outfit? Please remove it.",
+        "mask path": [
+            "60/60_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "61": {
+        "image path": "61/61.png",
+        "instruction": "Please reomve the part of the bird that is used for eating",
+        "mask path": [
+            "61/61_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "62": {
+        "image path": "62/62.png",
+        "instruction": "In a baseball game, the pitcher throws the ball to the batter, who tries to hit it. What equipment does the batter use to hit the ball? Please remove it.",
+        "mask path": [
+            "62/62_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "63": {
+        "image path": "63/63.png",
+        "instruction": "In ice hockey, players typically utilize certain equipment to control the puck and score goals. Can you identify what object(s) in the picture could be used by the players for this purpose? Please replace it(them) with stick(s).",
+        "mask path": [
+            "63/63_mask.png"
+        ],
+        "CLIP": [
+            "stick"
+        ]
+    },
+    "64": {
+        "image path": "64/64.png",
+        "instruction": "When fishing on a boat, it is typical to catch fish using a tool that is lengthy and flexible. What object in the picture might be fit for this function? Please replace this object with a long stick.",
+        "mask path": [
+            "64/64_mask.png"
+        ],
+        "CLIP": [
+            "stick"
+        ]
+    },
+    "65": {
+        "image path": "65/65.png",
+        "instruction": "During playtime, children often explore small structures designed specifically for them in a children's playground. What item in the picture could children enter and use as their own little house? Please replace it with a teddy bear.",
+        "mask path": [
+            "65/65_mask.png"
+        ],
+        "CLIP": [
+            "teddy bear"
+        ]
+    },
+    "66": {
+        "image path": "66/66.png",
+        "instruction": "Horse racing is a popular equestrian sport where jockeys compete against each other to win. What objects in the picture are commonly used as obstacles in horse racing? Please remove them.",
+        "mask path": [
+            "66/66_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "67": {
+        "image path": "67/67.png",
+        "instruction": "There are certain sports in which athletes perform gravity-defying stunts utilizing specific pieces of equipment. Based on the picture, what object could be utilized within such sports? Please remove it.",
+        "mask path": [
+            "67/67_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "68": {
+        "image path": "68/68.png",
+        "instruction": "While enjoying a formal dining experience, which utensil in the picture would typically be used to eat soup? Please remove it.",
+        "mask path": [
+            "68/68_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "69": {
+        "image path": "69/69.png",
+        "instruction": "When visiting a cafe or restaurant, where is an area where people can commonly find a place to sit and enjoy their food and drinks? Please remove it.",
+        "mask path": [
+            "69/69_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "70": {
+        "image path": "70/70.png",
+        "instruction": "When shopping for items, people often utilize a specific type of bag to carry their purchases. What item in the picture could be used for this purpose? Please remove them.",
+        "mask path": [
+            "70/70_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "71": {
+        "image path": "71/71.png",
+        "instruction": "During military operations, having access to reliable information is essential in making tactical decisions. What item in the picture might be used to contain vital information about the battlefield? Please replease this item with a white plate.",
+        "mask path": [
+            "71/71_mask.png"
+        ],
+        "CLIP": [
+            "white plate"
+        ]
+    },
+    "72": {
+        "image path": "72/72.png",
+        "instruction": "In a hotel lobby, decorative elements are often used to enhance the grandeur and elegance of the space. If we consider the picture shown, which element can be suspended from the ceiling while simultaneously providing lighting and aesthetic appeal? Please replace this object with a lob.",
+        "mask path": [
+            "72/72_mask.png"
+        ],
+        "CLIP": [
+            "lob"
+        ]
+    },
+    "73": {
+        "image path": "73/73.png",
+        "instruction": "During a football match, which equipment is usually utilized for passing and shooting towards the goal? Please replace this object with a basketball.",
+        "mask path": [
+            "73/73_mask.png"
+        ],
+        "CLIP": [
+            "basketball"
+        ]
+    },
+    "74": {
+        "image path": "74/74.png",
+        "instruction": "What equipment in the picture is utilized to stabilize and capture steady footage by supporting and holding the camera or camcorder? Please remove this object.",
+        "mask path": [
+            "74/74_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    },
+    "75": {
+        "image path": "75/75.png",
+        "instruction": "When it's cold during the winter months, people typically stay around a source of heat in their living rooms to keep warm and cozy. Please aid me in identifying what object within the picture could be utilized to generate warmth in such a circumstance. Please replace this object with a cabinet",
+        "mask path": [
+            "75/75_mask.png"
+        ],
+        "CLIP": [
+            "cabinet"
+        ]
+    },
+    "76": {
+        "image path": "76/76.png",
+        "instruction": "Ice hockey is a sport in which teams compete to score goals against each other. What object should the players aim to shoot the puck into in the picture? Please replace it with the billboard.",
+        "mask path": [
+            "76/76_mask.png"
+        ],
+        "CLIP": [
+            "billboard"
+        ]
+    },
+    "77": {
+        "image path": "77/77.png",
+        "instruction": "Despite the prevalence of digital communication, many people still enjoy writing by hand. What object in the picture could be utilized for the purpose of creating handwritten notes or letters? Please replace it with a 2B pencil.",
+        "mask path": [
+            "77/77_mask.png"
+        ],
+        "CLIP": [
+            "pencil"
+        ]
+    },
+    "78": {
+        "image path": "78/78.png",
+        "instruction": "Please replace the container that is being held by a person and is about to pour liquid with a glass cup.",
+        "mask path": [
+            "78/78_mask.png"
+        ],
+        "CLIP": [
+            "glass cup"
+        ]
+    },
+    "79": {
+        "image path": "79/79.png",
+        "instruction": "What part of the meal might be used to add flavor to the fish and can be squeezed onto it when eating fish and chips? Please replace them with Cherry Tomatoes.",
+        "mask path": [
+            "79/79_mask.png"
+        ],
+        "CLIP": [
+            "Cherry Tomatoes"
+        ]
+    },
+    "80": {
+        "image path": "80/80.png",
+        "instruction": "Please identify the facial feature in the picture that could indicate whether or not the person is smiling, as people often claim that a sincere smile can light up one's face. Then, replace it with the facial feature in the picture that could help people see the world.",
+        "mask path": [
+            "80/80_mask.png"
+        ],
+        "CLIP": [
+            "eyes"
+        ]
+    },
+    "81": {
+        "image path": "81/81.png",
+        "instruction": "In busy city streets, traffic violations can occur frequently, and law enforcement personnel play an important role in maintaining order. What in the picture can be a means of transportation for these law enforcement personnel? Please replace it with a pink car.",
+        "mask path": [
+            "81/81_mask.png"
+        ],
+        "CLIP": [
+            "pink car"
+        ]
+    },
+    "82": {
+        "image path": "82/82.png",
+        "instruction": "To maintain a clean and hygienic urban environment, it is necessary for everyone to play their part. Which opening on the bin in the picture should be utilized for the purpose of depositing garbage? Please replace it with a monkey.",
+        "mask path": [
+            "82/82_mask.png"
+        ],
+        "CLIP": [
+            "monkey"
+        ]
+    },
+    "83": {
+        "image path": "83/83.png",
+        "instruction": "In a large and busy parking lot, there may be numerous similar-looking cars that make it difficult to locate your vehicle. Based on the picture, what can be used to help identify your car? Please replace them with black brands.",
+        "mask path": [
+            "83/83_mask.png"
+        ],
+        "CLIP": [
+            "black brand"
+        ]
+    },
+    "84": {
+        "image path": "84/84.png",
+        "instruction": "In formal occasions, it is common for men to wear a particular accessory around their neck. What object in the picture could be used for this purpose? Please change its color into blue.",
+        "mask path": [
+            "84/84_mask.png"
+        ],
+        "CLIP": [
+            "blue tie"
+        ],
+        "notes": "special case"
+    },
+    "85": {
+        "image path": "85/85.png",
+        "instruction": "Please remove the object showing the price",
+        "mask path": [
+            "85/85_mask.png"
+        ],
+        "CLIP": [
+            "background"
+        ]
+    }
+}
